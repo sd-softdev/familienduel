@@ -1,0 +1,22 @@
+D:\Projekte\Familien Duell\Familien Duell\bin\Debug\Familien Duell.exe.config
+D:\Projekte\Familien Duell\Familien Duell\bin\Debug\Familien Duell.exe
+D:\Projekte\Familien Duell\Familien Duell\bin\Debug\Familien Duell.pdb
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien Duell.csprojAssemblyReference.cache
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien_Duell.Form1.resources
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien_Duell.Form2.resources
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien_Duell.Properties.Resources.resources
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien Duell.csproj.GenerateResource.cache
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien Duell.csproj.CoreCompileInputs.cache
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien Duell.exe
+D:\Projekte\Familien Duell\Familien Duell\obj\Debug\Familien Duell.pdb
+C:\Users\Daniel\Projekte\Henning_Familien Duell\bin\Debug\Familien Duell.exe.config
+C:\Users\Daniel\Projekte\Henning_Familien Duell\bin\Debug\Familien Duell.exe
+C:\Users\Daniel\Projekte\Henning_Familien Duell\bin\Debug\Familien Duell.pdb
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien Duell.csprojAssemblyReference.cache
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien_Duell.Form1.resources
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien_Duell.Form2.resources
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien_Duell.Properties.Resources.resources
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien Duell.csproj.GenerateResource.cache
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien Duell.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien Duell.exe
+C:\Users\Daniel\Projekte\Henning_Familien Duell\obj\Debug\Familien Duell.pdb
